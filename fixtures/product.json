@@ -1,0 +1,80 @@
+[
+  {
+    "model": "network.product",
+    "pk": 10,
+    "fields": {
+      "name": "Ноутбук",
+      "model": "PROBOOK-450",
+      "release_date": "2024-04-01"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 11,
+    "fields": {
+      "name": "Смарт-часы",
+      "model": "SMART-X900",
+      "release_date": "2024-04-02"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 12,
+    "fields": {
+      "name": "Планшет",
+      "model": "TAB-A700",
+      "release_date": "2024-04-03"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 13,
+    "fields": {
+      "name": "Смартфон",
+      "model": "PHONE-Z10",
+      "release_date": "2024-04-04"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 14,
+    "fields": {
+      "name": "Семена",
+      "release_date": "2024-04-05"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 15,
+    "fields": {
+      "name": "Яблоня",
+      "release_date": "2024-04-06"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 16,
+    "fields": {
+      "name": "Цемент",
+      "release_date": "2024-04-07"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 17,
+    "fields": {
+      "name": "Перфоратор",
+      "model": "PERF-600",
+      "release_date": "2024-04-08"
+    }
+  },
+  {
+    "model": "network.product",
+    "pk": 18,
+    "fields": {
+      "name": "Отвертка",
+      "model": "SCREW-DR900",
+      "release_date": "2024-04-09"
+    }
+  }
+]
